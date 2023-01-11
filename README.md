@@ -1,4 +1,5 @@
-# git-practical assignment of Git and Gitflow course LMS -lakshmishreya
+# Git practical assignment of Git and Gitflow course LMS 
+### Lakshmishreya Bapatuyeruguti- Blockchain Trainee
 <br>
 Create one repository for practical and provide the link of it for review.
 
