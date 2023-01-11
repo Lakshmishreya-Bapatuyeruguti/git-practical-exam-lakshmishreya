@@ -1,4 +1,4 @@
-# git-practical-exam-lakshmishreya
+# git-practical assignment of Git and Gitflow course LMS -lakshmishreya
 <br>
 Create one repository for practical and provide the link of it for review.
 
@@ -78,7 +78,7 @@ Work on below points:
 
 - derpped or removed a commit from feature branch using command
 
--> ```git reabse -i HEAD~3```
+-> ```git rebase -i HEAD~3```
 
 
 - a default editor opens up and  word 'pick' is changed to <b>'drop' </b> before the commits hash to delete commit.
