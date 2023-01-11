@@ -31,13 +31,14 @@ Work on below points:
 
 <br>- checkedout to main branch and merged buttonfeature branch with it using command:
 
--> <b>git merge buttonfeature</b>
+-> ```git merge buttonfeature```
+
 
 - Made a pull request to another repository by forking and cloning the project and making some changes:
 
 - Made changes and pushed it to forked repository using command: 
 
--> <b>git push origin main</b>
+-> ```git push origin main```
 
 - went to github and made a pull request
 ![Screenshot from 2023-01-10 17-01-09](https://user-images.githubusercontent.com/122250979/211720895-d5499661-0b7f-4a51-a6fc-ac2115b8f9f7.png)
@@ -49,10 +50,10 @@ Work on below points:
 
 - Tried rebasing a feature branch with main branch using commands:
 
--> <b>git checkout main </b>
+-> ```git checkout main ```
 
 
--> <b>git rebase feature</b>
+-> ```git rebase feature```
 
 
 
@@ -60,7 +61,7 @@ Work on below points:
 
 - changed one of the commit message from feature branch using interactive rebase commands:
 
--> <b>git rebase -i HEAD~2</b>
+-> ```git rebase -i HEAD~2```
 
 
 - a default editor opens up and the word 'pick' is changed to <b>'reword'</b> before the commit hash.
@@ -70,14 +71,14 @@ Work on below points:
 
 - Picked few commits from feature branch to main branch after switching to main branch using commands:
 
--><b>git cherry-pick [hashofcommit]</b>
+-> ```git cherry-pick [hashofcommit]```
 
 
 <br>5.Drop commit
 
 - derpped or removed a commit from feature branch using command
 
--> <b>git reabse -i HEAD~3</b>
+-> ```git reabse -i HEAD~3```
 
 
 - a default editor opens up and  word 'pick' is changed to <b>'drop' </b> before the commits hash to delete commit.
